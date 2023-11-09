@@ -24,7 +24,7 @@ It also fixes a number of bugs, adds a lot of new documentation, and updates som
 
 - scripts: Add libfdt to install deps ([#3834](https://github.com/rkt/rkt/pull/3834)). libfdt-dev is needed when building kernels for architectures that support a device tree.
 - makelib: Fix go-find-directories symlink problem ([#3824](https://github.com/rkt/rkt/pull/3824)).
-- scripts: adding missing dependecies to debian dependency installer ([#3829](https://github.com/rkt/rkt/pull/3829)).
+- scripts: adding missing dependencies to debian dependency installer ([#3829](https://github.com/rkt/rkt/pull/3829)).
 - scripts/build-pkgs: use RPM file dependency for shadow tools ([#3904](https://github.com/rkt/rkt/pull/3904)).
 
 ### Other changes
